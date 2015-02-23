@@ -41,6 +41,28 @@ main .right {
   width: 285px;
 }
 
+main .faq{
+  margin: 10px;
+  background: beige;
+  padding: 10px;
+  width: 570px;
+}
+
+main .question{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+}
+
+main .answer{
+  padding-bottom: 10px;
+  font-style: italic;
+}
+
+main .faq ul {
+  padding-left: 15px;
+  list-style-type: none;
+}
+
 footer .left {
   float: left;
   width: 570px;
